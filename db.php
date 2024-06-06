@@ -146,7 +146,6 @@
    $password = "";
    $db = "registrationform";
 
-   $connection = mysqli_connect("localhost","root","","registrationform");
-
- ?>
+   $connection = mysqli_connect("localhost","root","","registrationform");  
+  ?>
 
